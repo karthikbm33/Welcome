@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'M KARTHIK BM</h1>
-<h3 align="center">A passionate kode developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [Kode zone](https://kodezone.42web.io/)
 
