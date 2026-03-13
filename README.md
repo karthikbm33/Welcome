@@ -1,47 +1,107 @@
-<h1 align="center">Hi 👋, I'M KARTHIK BM</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-- 🔭 I’m currently working on [Code zone](https://kodezone.42web.io/)
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Technology**
-
-- 🤝 I’m looking for help with **Some open source project**
-
-- 💬 Ask me about **!**
-
-- 📫 How to reach me **karthikshet21@yahoo.com**
-
-- ⚡ Fun fact **🙂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20👋%20I'm%20Karthik%20BM&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=A%20Passionate%20Developer%20from%20India%20🇮🇳&descSize=18&descAlignY=65&descColor=ffffffcc&animation=fadeIn" width="100%" />
+
 </div>
 
-###
+---
+
+<img align="right" height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **[Code Zone](https://kodezone.42web.io/)**
+- 🌱 Currently learning **Python**
+- 👯 Looking to collaborate on **Technology Projects**
+- 🤝 Looking for help with **Open Source Projects**
+- 💬 Ask me about **C • C++ • C# • Java • Python • Web Dev**
+- 📫 Reach me at **karthikshet21@yahoo.com**
+- ⚡ Fun fact — **I love turning ideas into code! 🙂**
+
+<br/>
+
+---
+
+## 🔗 Connect with Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/karthikbm)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/karthikbm33)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Karthikbm33)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikbm33)&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikshet21@yahoo.com)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chat_kpt)&nbsp;
+[![Website](https://img.shields.io/badge/CodeZone-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kodezone.42web.io/)
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🛠️ Languages & Tools
 
+<div align="center">
 
-###
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,php,mysql,git,github,vscode,linux&theme=dark&perline=7" />
 
-<h3 align="left">🔥   My Stats :</h3>
+</div>
 
-###
+---
+
+## 🔥 My Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikbm33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbm33&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbm33&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karthikbm33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Hotel Booking](https://github-readme-stats.vercel.app/api/pin/?username=karthikbm33&repo=Hotel-Room-Booking-Management-System&theme=tokyonight&hide_border=true)](https://github.com/karthikbm33/Hotel-Room-Booking-Management-System)&nbsp;
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=karthikbm33&repo=Portfolio-Website&theme=tokyonight&hide_border=true)](https://github.com/karthikbm33/Portfolio-Website)
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikbm33&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=karthikbm33&icon=6&color=6)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+
+*Made with ❤️ by **[Karthik BM](https://github.com/karthikbm33)***
+
+</div>
