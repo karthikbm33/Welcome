@@ -6,11 +6,13 @@
 
 ---
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
+<table>
+<tr>
+<td valign="top" width="60%">
 
-- 🔭 Currently working on **[Code Zone](https://kodezone.42web.io/)**
+- 🔭 Currently working on **[Portfolio site](https:/karthikbm.infy.uk)**
 - 🌱 Currently learning **Python**
 - 👯 Looking to collaborate on **Technology Projects**
 - 🤝 Looking for help with **Open Source Projects**
@@ -18,7 +20,14 @@
 - 📫 Reach me at **karthikshet21@yahoo.com**
 - ⚡ Fun fact — **I love turning ideas into code! 🙂**
 
-<br/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,7 +62,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikbm33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbm33&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=karthikbm33&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -69,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karthikbm33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=karthikbm33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -98,7 +107,9 @@
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=karthikbm33&icon=6&color=6)
+[![](https://visitcount.itsvg.in/api?id=karthikbm33&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
