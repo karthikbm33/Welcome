@@ -4,7 +4,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -17,8 +17,8 @@
 - 👯 Looking to collaborate on **Technology Projects**
 - 🤝 Looking for help with **Open Source Projects**
 - 💬 Ask me about **C • C++ • C# • Java • Python • Web Dev**
-- 📫 Reach me at **karthikshet21@yahoo.com**
-- ⚡ Fun fact — **I love turning ideas into code! 🙂**
+- 📫 Reach me at **karthikbm5@zohomail.in**
+- ⚡ Fun fact — **I love building cool projects! 😊**
 
 </td>
 <td valign="top" width="40%" align="center">
@@ -29,7 +29,7 @@
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🔗 Connect with Me
 
@@ -44,8 +44,7 @@
 [![Website](https://img.shields.io/badge/CodeZone-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kodezone.42web.io/)
 
 </div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🛠️ Languages & Tools
 
@@ -55,7 +54,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🔥 My Stats
 
@@ -72,7 +71,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -81,7 +80,7 @@
 <img src="https://github-trophies.vercel.app/?username=karthikbm33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📌 Featured Projects
 
@@ -92,7 +91,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📊 Contribution Graph
 
@@ -102,7 +101,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
