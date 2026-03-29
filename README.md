@@ -87,7 +87,8 @@
 <div align="center">
 
 [![Portfolio website](https://karthikbm.infy.uk/api/pin/?username=karthikbm33&repo=Portfolio-Website&theme=tokyonight&hide_border=true)](https://karthikbm.infy.uk)
-[![Road-side Rescue System](https://road-side-rescue-system.vercel.app/api/pin/?username=karthikbm33&repo=road-side-rescue-system&theme=tokyonight&hide_border=true)](https://road-side-rescue-system.vercel.app/)
+[![Road-side Rescue System](https://github-readme-stats.vercel.app/api/pin/?username=karthikbm33&repo=road-side-rescue-system&theme=tokyonight&hide_border=true)](https://road-side-rescue-system.vercel.app/)
+
 
 </div>
 
